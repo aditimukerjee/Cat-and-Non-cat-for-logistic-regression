@@ -1,9 +1,9 @@
  Cat vs Non-Cat Image Classification Using a Logistic regression along with Neural Networks 
  
 INTRODUCTION 
-- Here I have used logistic regression along with neural networks, forward and backward propagation, and then applying them to the practice in order to build your image recognition system  i.e a cat classifier in this case. 
+- Here I have used logistic regression along with neural networks, forward and backward propagation, to build an image recognition system  i.e a cat classifier in this case. 
 This cat classifier takes an image as an input and then it predicts whether the image contains a cat or 
-not with 70% accuracy and the tools used will be Jupyter Notebook and the code is written in python.
+not with 70% accuracy.
 
 LOGISTIC REGRESSION
 - Logistic regression is the appropriate regression analysis to conduct when the dependent variable is dichotomous (binary). 
